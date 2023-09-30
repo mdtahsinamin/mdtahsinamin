@@ -25,6 +25,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Tricky concept and some problem solving using JavaScript.](https://aminmdtahsin243.medium.com/tricky-concept-and-some-problem-solving-using-javascript-5add32a98cc3?source=rss-7b1494e47201------2)
+- [React core concept.](https://aminmdtahsin243.medium.com/react-core-concept-2c150534427c?source=rss-7b1494e47201------2)
+- [Most interesting methods, operators, and concepts in ES6](https://aminmdtahsin243.medium.com/most-interesting-methods-operators-and-concepts-in-es6-9bdcdc374a52?source=rss-7b1494e47201------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
